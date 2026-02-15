@@ -1,0 +1,22 @@
+john.doe@example.com;jane.smith@example.com;Meeting Tomorrow;Hi Jane, we have a meeting scheduled for tomorrow at 10 AM. Let me know if that time works.;1;inbox
+alice.miller@example.com;george.white@example.com;Important Notification;Your account has been flagged for suspicious activity. Please verify your identity immediately.;1;inbox
+robert.smith@example.com;mary.johnson@example.com;Urgent!;Your account will be suspended unless you act now. Please update your details within 24 hours to avoid disruption.;1;inbox
+someone@gmail.com;nonone@gmail.com;nothing;i want nothing;1;inbox
+hello@gmail.com;hi@hotmail.com;hello;hi how are you;1;inbox
+mary.jones@example.com;robert.brown@example.com;Limited-time Offer;Congratulations! You've won a free gift card. Click here to claim it before it expires!;1;inbox
+abuhurrairah1234@gmail.com;hashmi@hotmail.com;food;give me my food back;2;outbox
+daniel.moore@example.com;karen.rodriguez@example.com;Meeting Postponed;Hi Karen, the meeting has been postponed to next Monday at 11 AM. Hope that works for you!;2;outbox
+linda.williams@example.com;charles.davis@example.com;Project Update;Hi Charles, the project is progressing well. I'll send you a more detailed report tomorrow.;2;outbox
+susan.taylor@example.com;james.walker@example.com;Free Holiday Offer;Win a free holiday by entering this competition! Don't miss out!;2;inbox
+patrick.moore@example.com;amanda.white@example.com;Click Now for Free Offer!;This is your chance to claim a free gift card worth $100. Click now to redeem it!;2;inbox
+sandra.jones@example.com;kevin.baker@example.com;Weekly Report;Attached is the weekly progress report for your review. Let me know if you have any questions.;2;outbox
+richard.lee@example.com;patricia.harris@example.com;Congrats! You've Won!;You have won a brand new iPhone! Click here to claim your prize. Hurry!;2;inbox
+abuhurrairah1234@gmail.com;gandu@hhotmail.com;C++;C++ assignment is very hard;3;inbox
+nancy.lee@example.com;joseph.morris@example.com;No Subject;Hi Joseph, just wanted to check in and see how you're doing. Let me know when you're free to catch up.;3;inbox
+victoria.hernandez@example.com;william.garcia@example.com;Invoice for Services;Attached is your invoice for the services rendered last month. Please review and make payment by the due date.;3;outbox
+michael.clark@example.com;lisa.allen@example.com;Work Proposal;Hi Lisa, please review the attached work proposal and let me know your thoughts. Looking forward to your feedback.;3;outbox
+abuhurrairah@gmail.com;hashmi@gmail.com;internship;i want internship;3;inbox
+something@gmail.com;hello@hotmail.com;do not disturb me please;do not disturb, yout music is too loud;3;inbox
+joseph.king@example.com;emily.scott@example.com;Congratulations on Winning!;You have won a free vacation! To claim your prize, click here now!;3;inbox
+hurrairah@hotmail.com;hashmi@gmail.com;internship;i need internship;3;outbox
+elizabeth.evans@example.com;thomas.martin@example.com;Summer Sale;Exclusive summer sale just for you! Get 50% off all items now. Shop today!;2;outbox
